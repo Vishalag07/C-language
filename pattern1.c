@@ -1,4 +1,4 @@
-// C program to print right half pyramid pattern of number 
+//code to print right half pyramid pattern of number 
 #include <stdio.h> 
 
 int main() 
